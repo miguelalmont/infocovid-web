@@ -1,0 +1,16 @@
+/* @media (max-width: 768px) {
+    #sidebar {
+        margin-left: -300px;
+    }
+    #sidebar.active {
+        margin-left: 0;
+    }
+  } */
+
+a:link {
+color: white;
+}
+
+a:visited {
+    color: gainsboro;
+}
